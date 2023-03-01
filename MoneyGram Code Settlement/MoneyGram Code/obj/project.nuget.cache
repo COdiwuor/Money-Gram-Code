@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSaswv3PvGRa46ioWz7+oVp3ItAX/WBngCeaPddrjQhrSEkNAf+6juWjAGdJBY7pHd44V+Iy4Q+tL8yQV9rPTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\MoneyGram Code\\MoneyGram Code\\MoneyGram Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

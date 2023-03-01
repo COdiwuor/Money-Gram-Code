@@ -1,0 +1,35 @@
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.exe
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.deps.json
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.runtimeconfig.json
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.dll
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.pdb
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.AssemblyInfo.cs
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.csproj.CopyComplete
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.dll
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.pdb
+C:\Users\HP\source\repos\MoneyGram Code\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.genruntimeconfig.cache
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.exe
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.deps.json
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.runtimeconfig.json
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.dll
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\MoneyGram Code.pdb
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.AssemblyInfo.cs
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.csproj.CopyComplete
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.dll
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.pdb
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.genruntimeconfig.cache
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MoneyGram Code Kenya\MoneyGram Code\obj\Debug\netcoreapp3.1\MoneyGram Code.GeneratedMSBuildEditorConfig.editorconfig
